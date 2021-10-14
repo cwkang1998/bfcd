@@ -1,4 +1,4 @@
-# FCD
+# BFCD
 A better cd tool
 
 ## Ideas
